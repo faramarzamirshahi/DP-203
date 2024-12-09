@@ -1,0 +1,4 @@
+/.venv
+.env
+AZURE_VARIABLES.py
+*.pyc
