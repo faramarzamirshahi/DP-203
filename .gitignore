@@ -2,3 +2,4 @@
 .env
 AZURE_VARIABLES.py
 *.pyc
+use_blob_auth.md
